@@ -1,0 +1,6 @@
+{
+  "rangeMin": 0.1,
+  "rangeMax": 0.9,
+  "aNeuronsSize": 12,
+  "sNeuronsSize": 25
+}
